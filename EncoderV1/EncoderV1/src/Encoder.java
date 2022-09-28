@@ -1,5 +1,5 @@
 /*
- * Program to Encode and Decode a String
+ * Program to ENCODE and DECODE a String
  * 
  * 
  * -----------------------------
